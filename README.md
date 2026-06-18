@@ -1,6 +1,6 @@
 # 🎸 TabSync — Spotify Guitar Tab App
 
-Automatically fetches guitar tabs for whatever you're listening to on Spotify, with AI-powered tools to simplify chords, rate difficulty, and give practice tips.
+*Currently OpenAI API calls are not working on demo due to me only having a free plan which doesnt allow for the calls to work, it does work though locally
 Live website demo link: https://web-production-e301ab.up.railway.app/
 
 ## How It Works

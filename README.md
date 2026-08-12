@@ -81,9 +81,9 @@ spotify-tab-app/
 ```
 
 ## Features
-- 🎵 Auto-detects currently playing Spotify song (polls every 8 seconds)
-- 🎸 Fetches top-rated tab from Ultimate Guitar automatically
-- ⚡ AI difficulty rating
-- 🔰 AI chord simplifier for beginners
-- 📋 AI practice tips
-- 💬 Chat with AI about the tab
+Auto-detects currently playing Spotify song (polls every 8 seconds)
+Fetches top-rated tab from Ultimate Guitar automatically
+AI difficulty rating
+AI chord simplifier for beginners
+AI practice tips
+Chat with AI about the tab
